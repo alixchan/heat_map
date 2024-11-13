@@ -1,0 +1,20 @@
+/* .table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
+    border: 1px solid rgb(11, 72, 24);
+} */
+
+.help-info {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+.help-info h4 {
+    margin-bottom: 10px;
+}
+
+.table-bordered th,
+.table-bordered td {
+    text-align: center;
+    vertical-align: middle;
+}
